@@ -146,7 +146,8 @@ Conhecimentos consolidados:
 
  - Clean Code: separação MVC e nomenclatura clara
 
- - Gestão de dependências com Maven/Gradle
+ - Gestão de dependências com Maven
+
 
 
 
